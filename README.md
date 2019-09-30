@@ -1,3 +1,6 @@
+<h1 align="center">I'm a contributor from the original project now, please, use <a href="https://github.com/dpopescu/ts-serializer">dpopescu</a> instead.</h1>
+
+
 <h1 align="center"> TS Serializer</h1>
 
 <p align="center">
